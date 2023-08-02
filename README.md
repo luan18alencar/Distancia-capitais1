@@ -1,2 +1,3 @@
-# Distancia-capitais1
-projeto de tabela de distância de capitais brasileiras
+# Distancia entre capitais brasileiras
+
+aplicaçao utilizando recursos de tabela para construçao da pagina com distncia entre capitais brasileiras
