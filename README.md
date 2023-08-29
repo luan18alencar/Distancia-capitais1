@@ -1,6 +1,6 @@
 ### Tabela de distancia entre capitais brasileiras
 
-##Qual o intuito dessa tabela?
+## Qual o intuito dessa tabela?
 informar as capitais brasileiras e suas distâncias
 
 ## Capitais utilizadas
