@@ -6,24 +6,15 @@ informar as capitais brasileiras e suas distâncias
 ## Capitais utilizadas
 
 ARACAJU
-
 BELÉM
-
 BELO HORIZONTE 
-
 BOA VISTA
-
 BRASILIA 
-
 CAMPO GRANDE
-
 CUIABA
-
-
 
 ## 🛠️ Construído com
 * [html.com]()
-
 
 ## 📌 Versão
 
