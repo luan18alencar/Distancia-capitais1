@@ -33,4 +33,4 @@ Nós usamos HTML5 e VSCODE 1.69.1
 ´´´´
 [Luan Abreu](https://gist.github.com/luan18alencar) 😊
 ´´´
->>>>>>> d1003510a4524ce04d2a8c5ea4e87ba217424aa3
+
